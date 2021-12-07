@@ -1,2 +1,1 @@
-# bocacolorado
-colegio jec 2020
+#sistema de votos
